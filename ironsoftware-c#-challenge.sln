@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ironsoftware-c#-challenge", "ironsoftware-c#-challenge\ironsoftware-c#-challenge.csproj", "{AB21EE7E-F9F7-47CF-AF5C-B7E9312831B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ironsoftware-c#-challenge.Tests", "ironsoftware-c#-challenge.Tests\ironsoftware-c#-challenge.Tests.csproj", "{1B9A2AD2-AEA1-46BB-A7E6-61E8633BEDF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB21EE7E-F9F7-47CF-AF5C-B7E9312831B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB21EE7E-F9F7-47CF-AF5C-B7E9312831B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB21EE7E-F9F7-47CF-AF5C-B7E9312831B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB21EE7E-F9F7-47CF-AF5C-B7E9312831B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B9A2AD2-AEA1-46BB-A7E6-61E8633BEDF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9A2AD2-AEA1-46BB-A7E6-61E8633BEDF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9A2AD2-AEA1-46BB-A7E6-61E8633BEDF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9A2AD2-AEA1-46BB-A7E6-61E8633BEDF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22184180-F970-4302-AF6A-4D7F2FE157C4}
+	EndGlobalSection
+EndGlobal
